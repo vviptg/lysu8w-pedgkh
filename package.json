@@ -1,0 +1,8 @@
+{
+  "name": "wd3eds--run",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "rxjs": "5.5.6"
+  }
+}
